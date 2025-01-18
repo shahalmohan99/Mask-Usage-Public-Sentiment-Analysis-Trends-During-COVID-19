@@ -1,0 +1,21 @@
+Year,Comment,Sentiment,Usage_Rate_Percentage
+2019,"Masks are mostly used in hospitals, not daily life.",Neutral,5
+2019,Only a few people wear masks for pollution.,Neutral,5
+2019,Wearing masks daily is uncommon.,Neutral,5
+2019,"I see some people wearing masks, but not many.",Neutral,7
+2019,Most people don't wear masks unless sick.,Neutral,8
+2020,Masks are now mandatory in public places.,Positive,60
+2020,I always wear a mask for safety.,Positive,70
+2020,Some people still refuse to wear masks.,Negative,50
+2020,Wearing a mask is a new normal.,Positive,80
+2020,Governments are enforcing mask mandates.,Positive,85
+2021,Mask usage is still high despite vaccines.,Positive,75
+2021,Some people stopped wearing masks after vaccines.,Negative,65
+2021,Wearing a mask depends on location rules.,Neutral,55
+2021,I wear a mask in crowded areas but not always.,Neutral,60
+2021,Mask mandates are being lifted slowly.,Positive,70
+2022,Most people stopped wearing masks.,Negative,40
+2022,Some still wear masks for personal protection.,Positive,30
+2022,Masks are not mandatory anymore in most places.,Neutral,25
+2022,Wearing a mask is now a personal choice.,Neutral,20
+2022,I only wear masks when I feel unwell.,Neutral,15
